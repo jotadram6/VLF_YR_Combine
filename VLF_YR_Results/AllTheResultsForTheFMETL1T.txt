@@ -1,0 +1,153 @@
+VLF_100_80_100_0 Trigger online cuts
+ <<< Combine >>> 
+>>> including systematics
+>>> method used is AsymptoticLimits
+>>> random number generator seed is 123456
+Computing results starting from observation (a-posteriori)
+[#0] ERROR:Eval -- RooAbsReal::logEvalError(model_s) evaluation error, 
+ origin       : RooProdPdf::model_s[ modelObs_s * nuisancePdf ]
+ message      : getLogVal() top-level p.d.f evaluates to zero
+ server values: !pdfs=(modelObs_s = 0/1,nuisancePdf = 1)
+
+ -- AsymptoticLimits ( CLs ) --
+Observed Limit: r < 546.5518
+Expected  2.5%: r < 0.0398
+Expected 16.0%: r < 0.0527
+Expected 50.0%: r < 0.0728
+Expected 84.0%: r < 0.1015
+Expected 97.5%: r < 0.1347
+
+Done in 0.01 min (cpu), 0.01 min (real)
+ <<< Combine >>> 
+>>> including systematics
+>>> method used is AsymptoticLimits
+>>> random number generator seed is 123456
+Computing results starting from observation (a-posteriori)
+[#0] ERROR:Eval -- RooAbsReal::logEvalError(model_s) evaluation error, 
+ origin       : RooProdPdf::model_s[ modelObs_s * nuisancePdf ]
+ message      : getLogVal() top-level p.d.f evaluates to zero
+ server values: !pdfs=(modelObs_s = 0/1,nuisancePdf = 1)
+
+ -- AsymptoticLimits ( CLs ) --
+Observed Limit: r < 546.5518
+Expected  2.5%: r < 0.0464
+Expected 16.0%: r < 0.0617
+Expected 50.0%: r < 0.0854
+Expected 84.0%: r < 0.1185
+Expected 97.5%: r < 0.1577
+
+Done in 0.01 min (cpu), 0.01 min (real)
+ <<< Combine >>> 
+>>> including systematics
+>>> method used is AsymptoticLimits
+>>> random number generator seed is 123456
+Computing results starting from observation (a-posteriori)
+[#0] ERROR:Eval -- RooAbsReal::logEvalError(model_s) evaluation error, 
+ origin       : RooProdPdf::model_s[ modelObs_s * nuisancePdf ]
+ message      : getLogVal() top-level p.d.f evaluates to zero
+ server values: !pdfs=(modelObs_s = 0/1,nuisancePdf = 1)
+
+ -- AsymptoticLimits ( CLs ) --
+Observed Limit: r < 546.5518
+Expected  2.5%: r < 0.0555
+Expected 16.0%: r < 0.0741
+Expected 50.0%: r < 0.1030
+Expected 84.0%: r < 0.1429
+Expected 97.5%: r < 0.1901
+
+Done in 0.01 min (cpu), 0.01 min (real)
+ <<< Combine >>> 
+>>> including systematics
+>>> method used is AsymptoticLimits
+>>> random number generator seed is 123456
+Computing results starting from observation (a-posteriori)
+[#0] ERROR:Eval -- RooAbsReal::logEvalError(model_s) evaluation error, 
+ origin       : RooProdPdf::model_s[ modelObs_s * nuisancePdf ]
+ message      : getLogVal() top-level p.d.f evaluates to zero
+ server values: !pdfs=(modelObs_s = 0/1,nuisancePdf = 1)
+
+ -- AsymptoticLimits ( CLs ) --
+Observed Limit: r < 546.5518
+Expected  2.5%: r < 0.0623
+Expected 16.0%: r < 0.0828
+Expected 50.0%: r < 0.1147
+Expected 84.0%: r < 0.1591
+Expected 97.5%: r < 0.2118
+
+Done in 0.01 min (cpu), 0.01 min (real)
+ <<< Combine >>> 
+>>> including systematics
+>>> method used is AsymptoticLimits
+>>> random number generator seed is 123456
+Computing results starting from observation (a-posteriori)
+[#0] ERROR:Eval -- RooAbsReal::logEvalError(model_s) evaluation error, 
+ origin       : RooProdPdf::model_s[ modelObs_s * nuisancePdf ]
+ message      : getLogVal() top-level p.d.f evaluates to zero
+ server values: !pdfs=(modelObs_s = 0/1,nuisancePdf = 1)
+
+ -- AsymptoticLimits ( CLs ) --
+Observed Limit: r < 102.0078
+Expected  2.5%: r < 0.0750
+Expected 16.0%: r < 0.0997
+Expected 50.0%: r < 0.1382
+Expected 84.0%: r < 0.1916
+Expected 97.5%: r < 0.2550
+
+Done in 0.01 min (cpu), 0.01 min (real)
+ <<< Combine >>> 
+>>> including systematics
+>>> method used is AsymptoticLimits
+>>> random number generator seed is 123456
+Computing results starting from observation (a-posteriori)
+[#0] ERROR:Eval -- RooAbsReal::logEvalError(model_s) evaluation error, 
+ origin       : RooProdPdf::model_s[ modelObs_s * nuisancePdf ]
+ message      : getLogVal() top-level p.d.f evaluates to zero
+ server values: !pdfs=(modelObs_s = 0/1,nuisancePdf = 1)
+
+ -- AsymptoticLimits ( CLs ) --
+Observed Limit: r < 0.1593
+Expected  2.5%: r < 0.0864
+Expected 16.0%: r < 0.1148
+Expected 50.0%: r < 0.1592
+Expected 84.0%: r < 0.2207
+Expected 97.5%: r < 0.2938
+
+Done in 0.01 min (cpu), 0.01 min (real)
+ <<< Combine >>> 
+>>> including systematics
+>>> method used is AsymptoticLimits
+>>> random number generator seed is 123456
+Computing results starting from observation (a-posteriori)
+[#0] ERROR:Eval -- RooAbsReal::logEvalError(model_s) evaluation error, 
+ origin       : RooProdPdf::model_s[ modelObs_s * nuisancePdf ]
+ message      : getLogVal() top-level p.d.f evaluates to zero
+ server values: !pdfs=(modelObs_s = 0/1,nuisancePdf = 1)
+
+ -- AsymptoticLimits ( CLs ) --
+Observed Limit: r < 0.1889
+Expected  2.5%: r < 0.1023
+Expected 16.0%: r < 0.1360
+Expected 50.0%: r < 0.1885
+Expected 84.0%: r < 0.2621
+Expected 97.5%: r < 0.3484
+
+Done in 0.01 min (cpu), 0.01 min (real)
+ <<< Combine >>> 
+>>> including systematics
+>>> method used is AsymptoticLimits
+>>> random number generator seed is 123456
+Computing results starting from observation (a-posteriori)
+[#0] ERROR:Eval -- RooAbsReal::logEvalError(model_s) evaluation error, 
+ origin       : RooProdPdf::model_s[ modelObs_s * nuisancePdf ]
+ message      : getLogVal() top-level p.d.f evaluates to zero
+ server values: !pdfs=(modelObs_s = 0/1,nuisancePdf = 1)
+
+ -- AsymptoticLimits ( CLs ) --
+Observed Limit: r < 0.1313
+Expected  2.5%: r < 0.0408
+Expected 16.0%: r < 0.0612
+Expected 50.0%: r < 0.0986
+Expected 84.0%: r < 0.1608
+Expected 97.5%: r < 0.2445
+
+Done in 0.01 min (cpu), 0.01 min (real)

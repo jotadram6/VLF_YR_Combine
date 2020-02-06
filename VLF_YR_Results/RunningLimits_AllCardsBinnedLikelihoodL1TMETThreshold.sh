@@ -1,0 +1,9 @@
+echo "VLF_100_80_100_0 Trigger online cuts"
+combine -M AsymptoticLimits METThresholdTriggerStudy/Allbins_MET80_100_80_100_0.txt
+combine -M AsymptoticLimits METThresholdTriggerStudy/Allbins_MET100_100_80_100_0.txt
+combine -M AsymptoticLimits METThresholdTriggerStudy/Allbins_MET120_100_80_100_0.txt
+combine -M AsymptoticLimits METThresholdTriggerStudy/Allbins_MET140_100_80_100_0.txt
+combine -M AsymptoticLimits METThresholdTriggerStudy/Allbins_MET160_100_80_100_0.txt
+combine -M AsymptoticLimits METThresholdTriggerStudy/Allbins_MET180_100_80_100_0.txt
+combine -M AsymptoticLimits METThresholdTriggerStudy/Allbins_MET200_100_80_100_0.txt
+combine -M AsymptoticLimits METThresholdTriggerStudy/Allbins_MET250_100_80_100_0.txt

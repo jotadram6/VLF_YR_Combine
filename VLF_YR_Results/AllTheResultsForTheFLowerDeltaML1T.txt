@@ -1,0 +1,168 @@
+------------------------------------------------>1
+ <<< Combine >>> 
+>>> including systematics
+>>> method used is AsymptoticLimits
+>>> random number generator seed is 123456
+Computing results starting from observation (a-posteriori)
+[#0] ERROR:Eval -- RooAbsReal::logEvalError(model_s) evaluation error, 
+ origin       : RooProdPdf::model_s[ modelObs_s * nuisancePdf ]
+ message      : getLogVal() top-level p.d.f evaluates to zero
+ server values: !pdfs=(modelObs_s = 0/1,nuisancePdf = 1)
+
+ -- AsymptoticLimits ( CLs ) --
+Observed Limit: r < 0.3788
+Expected  2.5%: r < 0.2057
+Expected 16.0%: r < 0.2734
+Expected 50.0%: r < 0.3789
+Expected 84.0%: r < 0.5269
+Expected 97.5%: r < 0.7003
+
+Done in 0.01 min (cpu), 0.01 min (real)
+------------------------------------------------>2
+ <<< Combine >>> 
+>>> including systematics
+>>> method used is AsymptoticLimits
+>>> random number generator seed is 123456
+Computing results starting from observation (a-posteriori)
+[#0] ERROR:Eval -- RooAbsReal::logEvalError(model_s) evaluation error, 
+ origin       : RooProdPdf::model_s[ modelObs_s * nuisancePdf ]
+ message      : getLogVal() top-level p.d.f evaluates to zero
+ server values: !pdfs=(modelObs_s = 0/1,nuisancePdf = 1)
+
+ -- AsymptoticLimits ( CLs ) --
+Observed Limit: r < 0.5543
+Expected  2.5%: r < 0.3012
+Expected 16.0%: r < 0.4002
+Expected 50.0%: r < 0.5547
+Expected 84.0%: r < 0.7692
+Expected 97.5%: r < 1.0236
+
+Done in 0.01 min (cpu), 0.01 min (real)
+------------------------------------------------>3
+ <<< Combine >>> 
+>>> including systematics
+>>> method used is AsymptoticLimits
+>>> random number generator seed is 123456
+Computing results starting from observation (a-posteriori)
+
+ -- AsymptoticLimits ( CLs ) --
+Observed Limit: r < 0.6201
+Expected  2.5%: r < 0.3362
+Expected 16.0%: r < 0.4467
+Expected 50.0%: r < 0.6191
+Expected 84.0%: r < 0.8610
+Expected 97.5%: r < 1.1444
+
+Done in 0.01 min (cpu), 0.01 min (real)
+------------------------------------------------>4
+ <<< Combine >>> 
+>>> including systematics
+>>> method used is AsymptoticLimits
+>>> random number generator seed is 123456
+Computing results starting from observation (a-posteriori)
+
+ -- AsymptoticLimits ( CLs ) --
+Observed Limit: r < 0.9977
+Expected  2.5%: r < 0.5430
+Expected 16.0%: r < 0.7215
+Expected 50.0%: r < 1.0000
+Expected 84.0%: r < 1.3866
+Expected 97.5%: r < 1.8454
+
+Done in 0.01 min (cpu), 0.01 min (real)
+------------------------------------------------>5
+ <<< Combine >>> 
+>>> including systematics
+>>> method used is AsymptoticLimits
+>>> random number generator seed is 123456
+Computing results starting from observation (a-posteriori)
+
+ -- AsymptoticLimits ( CLs ) --
+Observed Limit: r < 1.0067
+Expected  2.5%: r < 0.5472
+Expected 16.0%: r < 0.7271
+Expected 50.0%: r < 1.0078
+Expected 84.0%: r < 1.3975
+Expected 97.5%: r < 1.8598
+
+Done in 0.01 min (cpu), 0.01 min (real)
+------------------------------------------------>6
+ <<< Combine >>> 
+>>> including systematics
+>>> method used is AsymptoticLimits
+>>> random number generator seed is 123456
+Computing results starting from observation (a-posteriori)
+
+ -- AsymptoticLimits ( CLs ) --
+Observed Limit: r < 1.7222
+Expected  2.5%: r < 0.9332
+Expected 16.0%: r < 1.2401
+Expected 50.0%: r < 1.7188
+Expected 84.0%: r < 2.3901
+Expected 97.5%: r < 3.1768
+
+Done in 0.01 min (cpu), 0.01 min (real)
+------------------------------------------------>7
+ <<< Combine >>> 
+>>> including systematics
+>>> method used is AsymptoticLimits
+>>> random number generator seed is 123456
+Computing results starting from observation (a-posteriori)
+
+ -- AsymptoticLimits ( CLs ) --
+Observed Limit: r < 1.8391
+Expected  2.5%: r < 0.9969
+Expected 16.0%: r < 1.3246
+Expected 50.0%: r < 1.8359
+Expected 84.0%: r < 2.5531
+Expected 97.5%: r < 3.3934
+
+Done in 0.01 min (cpu), 0.01 min (real)
+------------------------------------------------>8
+ <<< Combine >>> 
+>>> including systematics
+>>> method used is AsymptoticLimits
+>>> random number generator seed is 123456
+Computing results starting from observation (a-posteriori)
+
+ -- AsymptoticLimits ( CLs ) --
+Observed Limit: r < 3.6757
+Expected  2.5%: r < 1.9937
+Expected 16.0%: r < 2.6492
+Expected 50.0%: r < 3.6719
+Expected 84.0%: r < 5.0916
+Expected 97.5%: r < 6.7762
+
+Done in 0.01 min (cpu), 0.01 min (real)
+------------------------------------------------>9
+ <<< Combine >>> 
+>>> including systematics
+>>> method used is AsymptoticLimits
+>>> random number generator seed is 123456
+Computing results starting from observation (a-posteriori)
+
+ -- AsymptoticLimits ( CLs ) --
+Observed Limit: r < 3.6771
+Expected  2.5%: r < 1.9937
+Expected 16.0%: r < 2.6492
+Expected 50.0%: r < 3.6719
+Expected 84.0%: r < 5.1209
+Expected 97.5%: r < 6.7973
+
+Done in 0.01 min (cpu), 0.01 min (real)
+------------------------------------------------>10
+ <<< Combine >>> 
+>>> including systematics
+>>> method used is AsymptoticLimits
+>>> random number generator seed is 123456
+Computing results starting from observation (a-posteriori)
+
+ -- AsymptoticLimits ( CLs ) --
+Observed Limit: r < 7.4657
+Expected  2.5%: r < 4.0553
+Expected 16.0%: r < 5.3887
+Expected 50.0%: r < 7.4688
+Expected 84.0%: r < 10.3863
+Expected 97.5%: r < 13.8046
+
+Done in 0.01 min (cpu), 0.01 min (real)

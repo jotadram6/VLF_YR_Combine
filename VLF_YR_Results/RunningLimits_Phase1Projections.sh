@@ -1,0 +1,3 @@
+combine -M AsymptoticLimits Phase1Projections/Allbins_100_80_100_0.txt
+combine -M AsymptoticLimits Phase1Projections/Allbins_150_130_100_0.txt
+combine -M AsymptoticLimits Phase1Projections/Allbins_200_180_100_0.txt
